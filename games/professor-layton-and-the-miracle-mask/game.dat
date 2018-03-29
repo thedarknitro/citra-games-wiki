@@ -22,3 +22,13 @@ release_date = "2011-02-26"
 title = "00040000000C9200"
 region = "jpn"
 release_date = "2013-02-06"
+
+[[ testcases ]]
+title = "00040000000A8600"
+compatibility = "1"
+date = "2018-03-29"
+version = "HEAD-6a54296"
+author = "thedarknitro"
+cpu = "Intel Core i7-3537u"
+gpu = "Nvidia GeForce GT 720M"
+os = "Windows 10 16299"
